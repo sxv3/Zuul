@@ -1,4 +1,7 @@
 #include "Room.h"
+#include <cstring>
+#include <algorithm>
+
 
 //Room.cpp file for the Room Class
 //Created by Tai Wong, November 19th
